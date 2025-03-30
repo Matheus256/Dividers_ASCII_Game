@@ -1,0 +1,7 @@
++-----------+
+|CONTROLES: |--------------------+
+| Mova o cursor com: a, w, s e d |
+| Apagar numero: ESPACO          |
+| Realizar checagem: c           |
+|                                |
++--------------------------------+

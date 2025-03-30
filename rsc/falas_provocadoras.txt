@@ -1,0 +1,14 @@
+<title>0
+Da uma olhada na comeia @. Pode ter      vizinhos faltando ou preechidos errado.
+<title>1
+Nao sou muito bom em Matematica, mas     tenho certeza que possa ter errado algo  na comeia @.
+<title>2
+Bixo, espero que eu nao precise lembrar  que nao pode repetir numeros.
+<title>3
+Talvez tenha algo de errado com os       vizihos da comeia @.
+<title>4
+Voce deve estar vacilando com algum dos  vizinhos da comeia @. Te orienta!
+<title>5
+Pode tentar olhar ao redor da comeia @,  mas nao se esqueca que desistir pode ser uma opcao.
+<title>6
+Me parece que alguem nao esta jogando    muito bem. Podia procurar um jogo mais   facil.
