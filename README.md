@@ -38,7 +38,7 @@ A seguir também apresentamos um GIF da terceira fase do jogo:
 
 ![dividers](https://github.com/user-attachments/assets/4865da14-99df-4421-9763-7e9857b3d98e)
 
-<p>Uma mais completa pode ser vista por meio do video no YouTube:</p>
+<p>Uma gameplay mais completa pode ser vista por meio do video no YouTube:</p>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=dIBq-FbOSdk">Gameplay no YouTube ▶️</a>
 </p>
