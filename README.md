@@ -19,7 +19,7 @@ professor da disciplina. Por meio da magnífica Engine é possível criar jogo e
 Atenção, outras restrições podem ser aplicadas durante as fases para dificultar a resolução, como por exemplo permitir que números menores do que 13 possam ser usados: neste caso deve-se usar apenas os números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
  11 e 12 para preencher todas as colmeias de determinada fase. Instruções adicionais de como jogar podem ser encontradas dentro do próprio jogo.</p>
 
-<h2 id="layout">🎨 Layout do Jogo</h2>
+<h2 id="layout">Layout do Jogo</h2>
 <!--
 ![Imagem1](https://github.com/user-attachments/assets/6b5d1089-0090-4b59-94bc-3d96b96307ab)
 ![Imagem2](https://github.com/user-attachments/assets/f22a5594-27c0-4683-83c8-90326991ea1a)
@@ -42,7 +42,7 @@ A seguir também apresentamos um GIF da terceira fase do jogo:
     <a href="https://www.youtube.com/watch?v=dIBq-FbOSdk">Gameplay no YouTube ▶️</a>
 </p>
 
-<h2 id="started">🚀 Como jogar?</h2>
+<h2 id="started">Como jogar?</h2>
 
 Em um sistema `Linux` clone o repositório com o comando
 
